@@ -1,8 +1,8 @@
-
 ---
 layout: page
 title: Publications
 ---
+
 <img style="float: left;" src="/assets/img/me_utah.JPG">
 Continue markdown text...
 

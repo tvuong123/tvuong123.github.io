@@ -5,62 +5,32 @@ title: About me
 
 ![Me](/assets/img/utah_me.JPG)
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Tyler Vuong
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- Email: tvuong[at]andrew[dot]cmu[dot]edu
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+## Education
+
+### <span>Carnegie Mellon University, PhD Electrical and Computer Engineering</span> <span>2017 -- present</span>
+
+### <span>Carnegie Mellon University, MS Electrical and Computer Engineering</span> <span>2017 -- 2019</span>
+
+### <span>University of California, Santa Barbara, BS Electrical Engineering</span> <span>2013 -- 2017</span>
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>Applied Scientist Intern @ Amazon</span> <span>May 2021 -- </span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+Will be an applied scientist intern on the Alexa Edge ML team in Boston MA
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### <span>Applied Scientist Intern @ Amazon</span> <span>May 2020 -- Aug 2020</span>
+Applied scientist intern on the Echo Spatial Perception team in Santa Clara, CA
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+### <span>Research Intern @ NASA Jet Propulsion Laboratory </span> <span>June 2016 -- Aug 2016</span>
 
-Global movement of free coding clubs for young people.
- 
- - Awarded 'Teacher of the Month'
+### <span>Engineering Intern @ Northrop Grumman</span> <span>June 2015 -- Aug 2015</span>
 
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
-## Education
-
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
-
-## Skills
-
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF

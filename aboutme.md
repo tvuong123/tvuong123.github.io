@@ -48,5 +48,6 @@ hand -->
 **Research Intern @ NASA Jet Propulsion Laboratory**\ 
 <span>June 2016 -- Aug 2016</span>
 
-**Engineering Intern @ Northrop Grumman**\  <span>June 2015 -- Aug 2015</span>
+**Engineering Intern @ Northrop Grumman**\  
+<span>June 2015 -- Aug 2015</span>
 

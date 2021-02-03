@@ -28,7 +28,7 @@ line. It is intended to be used for contact details -->
 hand -->
  <span>**Head TA - Advanced Digital Signal Processing, Carnegie Mellon University**</span> <span>Fall 2018, Fall 2019 </span>
  
- <span>**Head TA - **Digital Signal Processing, Carnegie Mellon University**</span> <span>Spring 2019 </span>
+ <span>**Head TA - Digital Signal Processing, Carnegie Mellon University**</span> <span>Spring 2019 </span>
 
 ## Work Experience
 

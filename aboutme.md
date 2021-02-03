@@ -11,25 +11,26 @@ title: About me
 line. It is intended to be used for contact details -->
 - Email: tvuong[at]andrew[dot]cmu[dot]edu
 
-## Education
+# Education
 
- <span>Carnegie Mellon University, PhD Electrical and Computer Engineering</span> 
+ ### <span>Carnegie Mellon University, PhD Electrical and Computer Engineering</span> 
  <span>2017 -- present</span>
 
- <span>Carnegie Mellon University, MS Electrical and Computer Engineering</span>
+ ### <span>Carnegie Mellon University, MS Electrical and Computer Engineering</span>
  <span>2017 -- 2019</span>
 
- <span>University of California, Santa Barbara, BS Electrical Engineering</span>
+ ### <span>University of California, Santa Barbara, BS Electrical Engineering</span>
  <span>2013 -- 2017</span>
 
-## Teaching Experience
+# Teaching Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
  <span>Head TA - Advanced Digital Signal Processing, Carnegie Mellon University</span> <span>Fall 2018, Fall 2019 </span>
+ 
  <span>Head TA - Digital Signal Processing, Carnegie Mellon University</span> <span>Spring 2019 </span>
 
-## Work Experience
+# Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->

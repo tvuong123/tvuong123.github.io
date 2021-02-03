@@ -15,7 +15,7 @@ author: Tyler Vuong
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "aboutme"
+  Publications: "publications"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #CV: "https://deanattali.com"

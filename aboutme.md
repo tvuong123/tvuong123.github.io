@@ -11,7 +11,7 @@ title: About me
 line. It is intended to be used for contact details -->
 - Email: tvuong[at]andrew[dot]cmu[dot]edu
 
-# Education
+## Education
 
  ### <span>Carnegie Mellon University, PhD Electrical and Computer Engineering</span> 
  <span>2017 -- present</span>

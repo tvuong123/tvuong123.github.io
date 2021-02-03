@@ -8,12 +8,14 @@ title: Publications
 
 Continue markdown text...
 
+[PAPER][CODE]
 **LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
 
 <img style="float: left;" src="/assets/img/STRFNet.png" width="600" height="400">
 
 Continue markdown text...
 
+[PAPER][CODE]
 
 ![Me](/assets/img/me_utah.JPG)
 <!-- The (first) h1 will be used as the <title> of the HTML page -->

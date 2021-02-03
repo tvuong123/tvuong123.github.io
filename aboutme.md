@@ -13,7 +13,7 @@ line. It is intended to be used for contact details -->
 
 ## Education
 
-  <span>**Carnegie Mellon University, PhD Electrical and Computer Engineering**\</span> 
+  **Carnegie Mellon University, PhD Electrical and Computer Engineering**\
  <span>2017 -- present</span>
 
   <span>**Carnegie Mellon University, MS Electrical and Computer Engineering**</span>

@@ -15,10 +15,10 @@ author: Tyler Vuong
 
 navbar-links:
   About Me: "aboutme"
-  Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  CV: "https://deanattali.com"
+  Publications: "aboutme"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #CV: "https://deanattali.com"
 
 # --- Logo --- #
 

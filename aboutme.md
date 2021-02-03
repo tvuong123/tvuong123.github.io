@@ -13,35 +13,35 @@ line. It is intended to be used for contact details -->
 
 ## Education
 
-  <span>**Carnegie Mellon University**, PhD Electrical and Computer Engineering</span> 
+  <span>**Carnegie Mellon University, PhD Electrical and Computer Engineering**</span> 
  <span>2017 -- present</span>
 
-  <span>**Carnegie Mellon University**, MS Electrical and Computer Engineering</span>
+  <span>**Carnegie Mellon University, MS Electrical and Computer Engineering**</span>
  <span>2017 -- 2019</span>
 
-  <span>**University of California, Santa Barbara**, BS Electrical Engineering</span>
+  <span>**University of California, Santa Barbara, BS Electrical Engineering**</span>
  <span>2013 -- 2017</span>
 
-# Teaching Experience
+## Teaching Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
- <span>Head TA - Advanced Digital Signal Processing, Carnegie Mellon University</span> <span>Fall 2018, Fall 2019 </span>
+ <span>Head TA - **Advanced Digital Signal Processing**, Carnegie Mellon University</span> <span>Fall 2018, Fall 2019 </span>
  
- <span>Head TA - Digital Signal Processing, Carnegie Mellon University</span> <span>Spring 2019 </span>
+ <span>Head TA - **Digital Signal Processing**, Carnegie Mellon University</span> <span>Spring 2019 </span>
 s
-# Work Experience
+## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-<span>Applied Scientist Intern @ Amazon, </span> <span>May 2021 -- </span>
+<span>**Applied Scientist Intern @ Amazon**, </span> <span>May 2021 -- </span>
 
 - Will be an applied scientist intern on the Alexa Edge ML team in Boston MA
 
- <span>Applied Scientist Intern @ Amazon, </span> <span>May 2020 -- Aug 2020</span>
+ <span>**Applied Scientist Intern @ Amazon**, </span> <span>May 2020 -- Aug 2020</span>
 - Applied scientist intern on the Echo Spatial Perception team in Santa Clara, CA
 
-<span>Research Intern @ NASA Jet Propulsion Laboratory, </span> <span>June 2016 -- Aug 2016</span>
+<span>**Research Intern @ NASA Jet Propulsion Laboratory**, </span> <span>June 2016 -- Aug 2016</span>
 
-<span>Engineering Intern @ Northrop Grumman, </span> <span>June 2015 -- Aug 2015</span>
+<span>**Engineering Intern @ Northrop Grumman**, </span> <span>June 2015 -- Aug 2015</span>
 

@@ -14,12 +14,15 @@ line. It is intended to be used for contact details -->
 ## Education
 
  <span>Carnegie Mellon University, PhD Electrical and Computer Engineering</span>\s\s
+ 
  <span>2017 -- present</span>
 
  <span>Carnegie Mellon University, MS Electrical and Computer Engineering</span>\s\s
+ 
  <span>2017 -- 2019</span>
 
  <span>University of California, Santa Barbara, BS Electrical Engineering</span>\s\s
+ 
  <span>2013 -- 2017</span>
 
 ## Teaching Experience

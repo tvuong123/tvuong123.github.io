@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![Me](/assets/img/utah_me.JPG)
+![Me](/assets/img/utah_me_small.jpg)
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Tyler Vuong
 

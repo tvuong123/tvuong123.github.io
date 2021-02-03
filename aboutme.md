@@ -19,7 +19,14 @@ line. It is intended to be used for contact details -->
 
 ### <span>University of California, Santa Barbara, BS Electrical Engineering</span> <span>2013 -- 2017</span>
 
-## Experience
+## Teaching Experience
+
+<!-- You have to wrap the "left" and "right" half of these headings in spans by
+hand -->
+### <span>Head TA - Advanced Digital Signal Processing, Carnegie Mellon University</span> <span>Fall 2018, Fall 2019 </span>
+### <span>Head TA - Digital Signal Processing, Carnegie Mellon University</span> <span>Spring 2019 </span>
+
+## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->

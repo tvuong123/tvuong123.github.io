@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 
-<img style="float: left;" src="/assets/img/stme-flow.png" width="800" height="400">
+<img style="float: left;" src="/assets/img/stme-flow.png" width="400" height="400">
 Continue markdown text...
 
-<img style="float: left;" src="/assets/img/STRFNet.png" width="800" height="400">
+<img style="float: left;" src="/assets/img/STRFNet.png" width="400" height="400">
 Continue markdown text...
 
 

@@ -3,6 +3,8 @@
 layout: page
 title: Publications
 ---
+<img style="float: left;" src="/assets/img/me_utah.JPG">
+Continue markdown text...
 
 ![Me](/assets/img/me_utah.JPG)
 <!-- The (first) h1 will be used as the <title> of the HTML page -->

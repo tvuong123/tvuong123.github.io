@@ -24,6 +24,6 @@ title: Publications (IN PROGRESS)
 <br/><br/>
 4th Place on the non-real-time track on the Interspeech 2020 Deep Noise Surpression Challenge
 
-[arXiv][BibTeX][CHALLENGE RESULTS]
+[[arXiv](https://arxiv.org/abs/2005.11611)][BibTeX][[CHALLENGE RESULTS](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/#!results)]
 
 

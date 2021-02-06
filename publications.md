@@ -6,7 +6,8 @@ title: Publications (IN PROGRESS)
 **A MODULATION-DOMAIN LOSS FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT**
 <img style="float: left;" src="/assets/img/stme-flow.png" width="600" height="400">
 
-<p>[1] **T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada </p>
+<p></p>
+[1] **T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
 
 [paper][arXiv][code][presentation][BibTeX]
 

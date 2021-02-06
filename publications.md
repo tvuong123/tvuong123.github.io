@@ -13,14 +13,14 @@ title: Publications (IN PROGRESS)
 
 **LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
 
-<img style="float: left;" src="/assets/img/STRFNet.png" width="600" height="400">
+<img src="/assets/img/STRFNet.png" width="600" height="400">
 <br/><br/>
 [2] **T. Vuong**, Y. Xia, R.M. Stern, "Learnable Spectro-temporal Receptive Fields for Robust Voice Type Discrimination," *INTERSPEECH*, October 2020, Shanghai, China
 
 [paper][arXiv][code][presentation][BibTeX]
 
 **Exploring the Best Loss Function for DNN-Based Low-latency Speech Enhancement with Temporal Convolutional Networks**
-<img style="float: left;" src="/assets/img/nc_layers.png" width="600" height="400">
+<img src="/assets/img/nc_layers.png" width="600" height="400">
 <br/><br/>
 4th Place on the non-real-time track on the Interspeech 2020 Deep Noise Surpression Challenge
 

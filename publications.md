@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications (IN PROGRESS)
+title: Publications
 ---
 
 **A MODULATION-DOMAIN LOSS FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT**

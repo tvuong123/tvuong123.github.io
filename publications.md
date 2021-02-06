@@ -14,6 +14,7 @@ title: Publications (IN PROGRESS)
 **LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
 
 <img src="/assets/img/STRFNet.png" width="600" height="400">
+
 [2] **T. Vuong**, Y. Xia, R.M. Stern, "Learnable Spectro-temporal Receptive Fields for Robust Voice Type Discrimination," *INTERSPEECH*, October 2020, Shanghai, China
 
 [[paper](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1878.pdf)][[arXiv](https://arxiv.org/abs/2010.09151)][[code](https://github.com/raymondxyy/strfnet-IS2020)][presentation][[BibTeX](citations/learnable_citation.bib)]

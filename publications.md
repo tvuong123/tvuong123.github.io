@@ -21,7 +21,7 @@ title: Publications (IN PROGRESS)
 **Exploring the Best Loss Function for DNN-Based Low-latency Speech Enhancement with Temporal Convolutional Networks**
 <img src="/assets/img/nc_layers.png" width="600" height="400">
 
-4th Place on the non-real-time track on the Interspeech 2020 Deep Noise Surpression Challenge
+**4th Place on the non-real-time track on the Interspeech 2020 Deep Noise Surpression Challenge**\
 [3] Y. Koyama, **T. Vuong**, S. Uhlich, and B. Raj, “Exploring the best loss function for DNN-based lowlatency speech enhancement with temporal convolutional networks,” arXiv preprint arXiv:2005.11611, 2020.
 
 [[arXiv](https://arxiv.org/abs/2005.11611)][BibTeX][[challenge results (Sony and CMU team)](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/#!results)]

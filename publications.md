@@ -17,7 +17,7 @@ title: Publications (IN PROGRESS)
 <br/><br/>
 [2] **T. Vuong**, Y. Xia, R.M. Stern, "Learnable Spectro-temporal Receptive Fields for Robust Voice Type Discrimination," *INTERSPEECH*, October 2020, Shanghai, China
 
-[paper][[arXiv](https://arxiv.org/abs/2010.09151)][[code](https://github.com/raymondxyy/strfnet-IS2020)][presentation][[BibTeX](citation.bib)]
+[paper][[arXiv](https://arxiv.org/abs/2010.09151)][[code](https://github.com/raymondxyy/strfnet-IS2020)][presentation][[BibTeX](citations/learnable_citation.bib)]
 
 **Exploring the Best Loss Function for DNN-Based Low-latency Speech Enhancement with Temporal Convolutional Networks**
 <img src="/assets/img/nc_layers.png" width="600" height="400">

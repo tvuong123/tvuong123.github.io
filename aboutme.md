@@ -36,8 +36,8 @@ hand -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-<!-- **Applied Scientist Intern @ Amazon**\
-<span>May 2021 -- </span>
+**Applied Scientist Intern @ Amazon**\
+May 2021 -- </span>
 - Will be an applied scientist intern on the Alexa Edge ML team in Boston MA -->
 
  **Applied Scientist Intern @ Amazon**\

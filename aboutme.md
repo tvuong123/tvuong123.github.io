@@ -38,11 +38,11 @@ hand -->
 hand -->
 **Applied Scientist Intern @ Amazon**\
 <span> May 2021 -- August 2021 </span>
-- Will be an applied scientist intern on the Alexa Edge ML team in Boston MA -->
+- Will be an applied scientist intern on the Alexa Edge ML team in Boston MA
 
  **Applied Scientist Intern @ Amazon**\
  <span>May 2020 -- Aug 2020</span>
-- Applied scientist intern on the Echo Spatial Perception team in Santa Clara, CA
+- Applied scientist intern on the Echo Spatial Perception team in Santa Clara CA
 
 **Research Intern @ NASA Jet Propulsion Laboratory**\
 <span>June 2016 -- Aug 2016</span>

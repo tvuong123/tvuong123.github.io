@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**[1]A MODULATION-DOMAIN LOSS FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT**
+**[1] A MODULATION-DOMAIN LOSS FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT**
 <img src="/assets/img/stme-flow.png" width="600" height="400">
 
 **T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
@@ -11,7 +11,7 @@ title: Publications
 [paper][[arXiv](https://arxiv.org/abs/2102.07330)][code - in progress/email for prelim version][presentation][[BibTeX](citations/modulation_citation.bib)]
 
 
-**[2]LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
+**[2] LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
 
 <img src="/assets/img/STRFNet.png" width="600" height="400">
 
@@ -19,7 +19,7 @@ title: Publications
 
 [[paper](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1878.pdf)][[arXiv](https://arxiv.org/abs/2010.09151)][[code](https://github.com/raymondxyy/strfnet-IS2020)][presentation][[BibTeX](citations/learnable_citation.bib)]
 
-**[3]Exploring the Best Loss Function for DNN-Based Low-latency Speech Enhancement with Temporal Convolutional Networks**
+**[3] Exploring the Best Loss Function for DNN-Based Low-latency Speech Enhancement with Temporal Convolutional Networks**
 <img src="/assets/img/nc_layers.png" width="600" height="400">
 
 **4th Place on the non-real-time track on the Interspeech 2020 Deep Noise Surpression Challenge**

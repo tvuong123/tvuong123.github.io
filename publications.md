@@ -8,7 +8,7 @@ title: Publications
 
 [1] **T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
 
-[paper][arXiv][code][presentation][BibTeX]
+[paper][[arXiv](https://arxiv.org/abs/2102.07330)][code - in progress/email for prelim version][presentation][BibTeX]
 
 
 **LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**

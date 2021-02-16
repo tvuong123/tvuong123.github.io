@@ -8,7 +8,7 @@ title: Publications
 
 [1] **T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
 
-[paper][[arXiv](https://arxiv.org/abs/2102.07330)][code - in progress/email for prelim version][presentation][BibTeX]
+[paper][[arXiv](https://arxiv.org/abs/2102.07330)][code - in progress/email for prelim version][presentation][[BibTeX](citations/modulation_citation.bib)]
 
 
 **LEARNABLE SPECTRO-TEMPORAL RECEPTIVE FIELDS FOR ROBUST VOICE TYPE DISCRIMINATION**
@@ -26,6 +26,6 @@ title: Publications
 
 [3] Y. Koyama, **T. Vuong**, S. Uhlich, and B. Raj, “Exploring the best loss function for DNN-based lowlatency speech enhancement with temporal convolutional networks,” arXiv preprint arXiv:2005.11611, 2020.
 
-[[arXiv](https://arxiv.org/abs/2005.11611)][BibTeX][[challenge results (Sony and CMU team)](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/#!results)]
+[[arXiv](https://arxiv.org/abs/2005.11611)][[BibTeX](citations/dns_challenge_citatation.bib)][[challenge results (Sony and CMU team)](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-interspeech-2020/#!results)]
 
 

@@ -4,12 +4,12 @@ title: Publications
 ---
 
 
-**[5] The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03 SAD Challenge**
+**[5] THE APPLICATION OF LEARNABLE STRF KERNELS TO THE 2021 FEARLESS STEPS PHASE-03 SAD CHALLENGE**
 
 **T. Vuong**, Y. Xia, R.M. Stern, "The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03 SAD Challenge," *Accepted INTERSPEECH*, September 2021, Brno, Czechia 
 
 
-**[4] Generalized Spoofing Detection Inspired from Audio Generation Artifacts**
+**[4] GENERALIZED SPOOFING DETECTION INSPIRED FROM AUDIO GENERATION ARTIFACTS**
 
 Y. Gao, **Tyler Vuong**, M. Elyasi, G. Bharaj, R. Singh, "Generalized Spoofing Detection Inspired from Audio Generation Artifacts," *Accepted INTERSPEECH*, September 2021, Brno, Czechia 
 

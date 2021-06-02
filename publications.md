@@ -3,10 +3,20 @@ layout: page
 title: Publications
 ---
 
+
+**[5] The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03 SAD Challenge**
+
+**T. Vuong**, Y. Xia, R.M. Stern, "The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03 SAD Challenge," *Accepted INTERSPEECH*, September 2021, Brno, Czechia 
+
+
+**[4] Generalized Spoofing Detection Inspired from Audio Generation Artifacts**
+
+Y. Gao, **Tyler Vuong**, M. Elyasi, G. Bharaj, R. Singh, "Generalized Spoofing Detection Inspired from Audio Generation Artifacts," *Accepted INTERSPEECH*, September 2021, Brno, Czechia 
+
 **[3] A MODULATION-DOMAIN LOSS FOR NEURAL-NETWORK-BASED REAL-TIME SPEECH ENHANCEMENT**
 <img src="/assets/img/stme-flow.png" width="600" height="400">
 
-**T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *Accepted IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
+**T. Vuong**, Y. Xia, R.M. Stern, "A Modulation-Domain Loss for Neural-Network-based Real-time Speech Enhancement," *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, May 2021, Toronto, Canada 
 
 [paper][[arXiv](https://arxiv.org/abs/2102.07330)][[code](https://github.com/tvuong123/ModulationDomainLoss)][presentation][[BibTeX](citations/modulation_citation.bib)]
 
